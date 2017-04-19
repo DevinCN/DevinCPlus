@@ -6,9 +6,9 @@
 
 ## 【C】
 
-* [part 1](part-1.md)
+* [part 1](part-a1.md)
 
 ## 【C++】
 
-* [part 2](part-2.md)
+* [part 2](part-b1.md)
 
